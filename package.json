@@ -18,7 +18,7 @@
   "homepage": "https://github.com/fadhilahkholiq/fk-nice-evm-address-generator#readme",
   "dependencies": {
     "generate-nice-eth-address": "^1.0.0",
-    "fk-evm-address-generator": "^1.0.0",
+    "fk-evm-address-generator": "^1.0.0"
   },
   "keywords": [
     "evm",
